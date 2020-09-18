@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am✨**Rohit Choudhary**✨, pursuing MSc. degree in (Information Technology). I am passionate in Machine Learning, my research interest includes Data Science, Machine Learning, algorithmic trading. My career objectives are to work in a challenging environment and contribute to the achievement of the administrative objective by applying my skills.
+
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/TechRoC?style=social"/>
 
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning.
