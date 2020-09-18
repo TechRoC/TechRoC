@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--
+
 **TechRoC/TechRoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -9,10 +9,12 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me:
+- 📫 How to reach me: 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/LinkedIn.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/Instagram.svg" />
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/TechRoC?style=social"/>
 
 ### Statistics
