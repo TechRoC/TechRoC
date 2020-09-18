@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/TechRoC?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/TechRoC?style=social"/>
 <!--
 **TechRoC/TechRoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Statistics
 <details>
    <summary>GitHub Stats</summary>
 
