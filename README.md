@@ -1,17 +1,11 @@
 ### Hi there 👋
 
-**TechRoC/TechRoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am✨**Rohit Choudhary**✨, pursuing MSc. degree in (Information Technology). I am passionate in Machine Learning, my research interest includes Data Science, Machine Learning, algorithmic trading. My career objectives are to work in a challenging environment and contribute to the achievement of the administrative objective by applying my skills.
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/TechRoC?style=social"/>
 
-
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 
 **📫 How to Connect me :**
-
 [<img align="left" width="22px" alt="TechRoC | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]      [<img align="left" width="22px" alt="TechRoC | facebook" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg" />][facebook] [<img align= "left" width="22px" alt="TechRoC | Instagram" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/rohit-choudhary-1789771a0
