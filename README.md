@@ -11,7 +11,7 @@
 - 💬 Ask me about ...
 **📫 How to Connect me :**
 
-   -[<img height="32" width="32" alt="TechRoC | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]      [<img height="32" width="32" alt="TechRoC | facebook" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg" />][facebook] <img height="32" width="32" alt="TechRoC | Instagram" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
+   -[<img height="32" width="32" alt="TechRoC | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]      [<img height="32" width="32" alt="TechRoC | facebook" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg" />][facebook] [<img height="32" width="32" alt="TechRoC | Instagram" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/rohit-choudhary-1789771a0
 [faceboo]: https://www.facebook.com/profile.php?id=100027133413454
