@@ -1,7 +1,4 @@
 ### Hi there 👋
-<details>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/TechRoC?style=social">
-</details>
 <!--
 **TechRoC/TechRoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,5 +19,5 @@
    <summary>GitHub Stats</summary>
 
    <img align="left" alt="TechRoC's GitHub stats" src="https://github-readme-stats-kappa-dun.vercel.app/api?username=TechRoC&show_icons=True&hide_border=True"/>
-
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/TechRoC?style=social">
 </details>
