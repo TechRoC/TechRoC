@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/TechRoC?style=social"/ >
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/TechRoC?style=social"/>
 
 ### Statistics
 <details>
