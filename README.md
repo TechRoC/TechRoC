@@ -9,8 +9,9 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me:
-[<img height="32" width="32" alt="TechRoC | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img height="32" width="32" alt="TechRoC | Instagram" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 📫 How to reach me : 
+
+   -[<img height="32" width="32" alt="TechRoC | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img height="32" width="32" alt="TechRoC | Instagram" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/rohit-choudhary-1789771a0
 [instagram]: instagram.com/rohitchoudhary312
