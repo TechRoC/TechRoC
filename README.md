@@ -12,15 +12,12 @@ I am✨**Rohit Choudhary**✨, pursuing MSc. degree in (Information Technology).
 [linkedin]: https://www.linkedin.com/in/rohit-choudhary-1789771a0
 [facebook]: https://www.facebook.com/profile.php?id=100027133413454
 [instagram]: instagram.com/rohitchoudhary312
+</br>
 
-
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/TechRoC?style=social"/>
 
 ### Statistics
 <details>
    <summary>GitHub Stats</summary>
 
    <img align="left" alt="TechRoC's GitHub stats" src="https://github-readme-stats-kappa-dun.vercel.app/api?username=TechRoC&show_icons=True&hide_border=True"/>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/TechRoC?style=social">
 </details>
