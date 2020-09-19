@@ -1,3 +1,4 @@
+![Rohit](https://user-images.githubusercontent.com/60687531/93666701-eced3700-fa9d-11ea-9133-c63e4797b484.jpg)
 ### Hi there 👋
 
 I am✨**Rohit Choudhary**✨, pursuing MSc. degree in (Information Technology). I am passionate in Machine Learning, my research interest includes Data Science, Machine Learning, algorithmic trading. My career objectives are to work in a challenging environment and contribute to the achievement of the administrative objective by applying my skills.
