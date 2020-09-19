@@ -51,6 +51,8 @@ I am✨***Rohit Choudhary***✨, pursuing MSc. degree in (Information Technology
 
 [Generative Adverserial Networks](https://github.com/TechRoC/Human-Face-Generator)
 
+---
+
 ### *Statistics*
 
 <!-- START_SECTION:activity -->
