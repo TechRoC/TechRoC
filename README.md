@@ -11,7 +11,8 @@ I am✨**Rohit Choudhary**✨, pursuing MSc. degree in (Information Technology).
 <img align="left" width="100px" alt="GitHub followers" src="https://img.shields.io/github/followers/TechRoC?style=social"/>[<img align="left" alt = "Leetcode" src="https://img.shields.io/badge/Leetcode-Programming-lightgrey"/>][website]
 
 </td>
-</td>
+</tr>
+</table>
 
 
 
