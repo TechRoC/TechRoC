@@ -30,6 +30,9 @@ I am✨**Rohit Choudhary**✨, pursuing MSc. degree in (Information Technology).
 ---
 
 ### Statistics
+
+<!-- START_SECTION:activity -->
+
 <details>
    <summary>GitHub Stats</summary>
 
