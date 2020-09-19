@@ -24,12 +24,12 @@ I am✨***Rohit Choudhary***✨, pursuing MSc. degree in (Information Technology
 ### ***skills***
 
 <img align="left" width="30px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/python.svg"/>
-<img align="left" width="22px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/java.svg"/>
-<img align="left" width="22px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/django.svg"/>
-<img align="left" width="22px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/mongodb.svg"/>
-<img align="left" width="22px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/postgresql.svg"/>
-<img align="left" width="22px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/xamarin.svg"/>
-<img align="left" width="22px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/tensorflow.svg"/>
+<img align="left" width="30px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/java.svg"/>
+<img align="left" width="30px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/django.svg"/>
+<img align="left" width="30px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/mongodb.svg"/>
+<img align="left" width="30px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/postgresql.svg"/>
+<img align="left" width="30px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/xamarin.svg"/>
+<img align="left" width="30px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/tensorflow.svg"/>
 
 [linkedin]: https://www.linkedin.com/in/rohit-choudhary-1789771a0
 [facebook]: https://www.facebook.com/profile.php?id=100027133413454
