@@ -4,13 +4,14 @@
 I am✨**Rohit Choudhary**✨, pursuing MSc. degree in (Information Technology). I am passionate in Machine Learning, my research interest includes Data Science, Machine Learning, algorithmic trading. My career objectives are to work in a challenging environment and contribute to the achievement of the administrative objective by applying my skills.
 
 <img align="left" width="100px" alt="GitHub followers" src="https://img.shields.io/github/followers/TechRoC?style=social"/>[<img align="left" alt = "Leetcode" src="https://img.shields.io/badge/Leetcode-Programming-lightgrey"/>][website]
->
+[<img align="left" alt = "hackerRank" src="https://img.shields.io/badge/HackRank-Programming-green" />[website1]
   
 
 
 
 
 [website]: https://leetcode.com/rohitchoudhary7718/
+[website1]: https://www.hackerrank.com/rohitchoudhary71
 </br>
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning.
 
