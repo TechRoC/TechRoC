@@ -41,7 +41,6 @@ I am✨***Rohit Choudhary***✨, pursuing MSc. degree in (Information Technology
 ## ***Spotify playing***
 
 [![Spotify](https://novatorem-rho-nine.vercel.app/api/spotify)](https://open.spotify.com/user/Rohit)
-
 <br />
 
 ---
