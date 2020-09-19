@@ -44,7 +44,5 @@ I am✨***Rohit Choudhary***✨, pursuing MSc. degree in (Information Technology
 <!-- START_SECTION:activity -->
 
 <details>
-   <summary>GitHub Stats</summary>
-
    <img align="left" alt="TechRoC's GitHub stats" src="https://github-readme-stats-kappa-dun.vercel.app/api?username=TechRoC&show_icons=False&hide_border=True"/>
 </details>
