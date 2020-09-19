@@ -39,7 +39,7 @@ I am✨***Rohit Choudhary***✨, pursuing MSc. degree in (Information Technology
 
 ---
 
-## *Statistics*
+### *Statistics*
 
 <!-- START_SECTION:activity -->
 
