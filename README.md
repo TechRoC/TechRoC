@@ -21,6 +21,7 @@ I am✨**Rohit Choudhary**✨, pursuing MSc. degree in (Information Technology).
 
 
 ### *** skills ***
+
 <img align="left" width="22px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/python.svg"/>
 <img align="left" width="22px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/java.svg"/>
 <img align="left" width="22px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/django.svg"/>
