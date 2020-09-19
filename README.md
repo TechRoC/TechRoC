@@ -1,9 +1,9 @@
 
-## *Hi there 👋Rohit Choudhary*
+# *Hi there 👋Rohit Choudhary*
 
 I am✨***Rohit Choudhary***✨, pursuing MSc. degree in (Information Technology). I am passionate in Machine Learning, my research interest includes Data Science, Machine Learning, algorithmic trading. My career objectives are to work in a challenging environment and contribute to the achievement of the administrative objective by applying my skills.
 
-<img align="left" width="100px" alt="GitHub followers" src="https://img.shields.io/github/followers/TechRoC?style=social"/>[<img align="left" alt = "Leetcode" src="https://img.shields.io/badge/Leetcode-Programming-lightgrey"/>][website] [<img align="left" alt = "hackerRank" src="https://img.shields.io/badge/HackRank-Programming-green" />][websitea]
+<img align="left" width="200px" alt="GitHub followers" src="https://img.shields.io/github/followers/TechRoC?style=social"/>[<img align="left" alt = "Leetcode" src="https://img.shields.io/badge/Leetcode-Programming-lightgrey"/>][website] [<img align="left" alt = "hackerRank" src="https://img.shields.io/badge/HackRank-Programming-green" />][websitea]
   
 
 
@@ -15,13 +15,13 @@ I am✨***Rohit Choudhary***✨, pursuing MSc. degree in (Information Technology
 </br>
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning.
 
-### ***📫 Connect with me :***
+## ***📫 Connect with me :***
 
-  [<img align="left" width="22px" alt="TechRoC | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="blue"/>][linkedin]      [<img align="left" width="22px" alt="TechRoC | facebook" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg" />][facebook] [<img align= "left" width="22px" alt="TechRoC | Instagram" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
+  [<img align="left" width="30px" alt="TechRoC | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="blue"/>][linkedin]      [<img align="left" width="30px" alt="TechRoC | facebook" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg" />][facebook] [<img align= "left" width="30px" alt="TechRoC | Instagram" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### ***skills***
+## ***skills***
 
 <img align="left" width="30px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/python.svg"/>
 <img align="left" width="30px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/java.svg"/>
@@ -39,7 +39,7 @@ I am✨***Rohit Choudhary***✨, pursuing MSc. degree in (Information Technology
 
 ---
 
-### *Statistics*
+## *Statistics*
 
 <!-- START_SECTION:activity -->
 
