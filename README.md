@@ -15,7 +15,7 @@ I am✨**Rohit Choudhary**✨, pursuing MSc. degree in (Information Technology).
 [instagram]: https://www.instagram.com/rohitchoudhary312
 
 
-_____________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________
 ### Statistics
 <details>
    <summary>GitHub Stats</summary>
