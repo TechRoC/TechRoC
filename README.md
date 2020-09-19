@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-<img height="100" width="500" src="https://user-images.githubusercontent.com/60687531/93666736-30e03c00-fa9e-11ea-9965-5e481dcdb083.jpg")
+<img height="200" width="500" src="https://user-images.githubusercontent.com/60687531/93666736-30e03c00-fa9e-11ea-9965-5e481dcdb083.jpg")
     </td>
     <td>
 ### Hi there 👋
