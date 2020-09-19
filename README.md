@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-<img height="200" width="700" src="https://user-images.githubusercontent.com/60687531/93666736-30e03c00-fa9e-11ea-9965-5e481dcdb083.jpg")
+<img id="abc" height="200" width="700" src="https://user-images.githubusercontent.com/60687531/93666736-30e03c00-fa9e-11ea-9965-5e481dcdb083.jpg")
     </td>
     <td>
 ### Hi there 👋
@@ -13,7 +13,10 @@ I am✨**Rohit Choudhary**✨, pursuing MSc. degree in (Information Technology).
 </td>
 </tr>
 </table>
-
+<style>
+  #abc{ border-radius: 50%;
+ </style>
+  
 
 
 
