@@ -25,8 +25,10 @@ I am✨**Rohit Choudhary**✨, pursuing MSc. degree in (Information Technology).
 [facebook]: https://www.facebook.com/profile.php?id=100027133413454
 [instagram]: https://www.instagram.com/rohitchoudhary312
 
-</br>
-</br>
+<br />
+<br />
+
+---
 
 ### Statistics
 <details>
