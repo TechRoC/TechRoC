@@ -6,7 +6,7 @@ I am✨**Rohit Choudhary**✨, pursuing MSc. degree in (Information Technology).
 
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning.
 
-**📫 How to Connect me :**
+### **📫 Connect with me :**
 
 - [<img align="left" width="22px" alt="TechRoC | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]      [<img align="left" width="22px" alt="TechRoC | facebook" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg" />][facebook] [<img align= "left" width="22px" alt="TechRoC | Instagram" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
 
