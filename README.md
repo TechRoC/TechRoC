@@ -40,7 +40,7 @@ I am✨***Rohit Choudhary***✨, passionate in Machine Learning, my research int
 
 ## ***Spotify playing***
 
-[![Spotify](https://novatorem-rho-nine.vercel.app/api/spotify)](https://open.spotify.com/user/Rohit)
+![Spotify](https://novatorem-rho-nine.vercel.app/api/spotify)](https://open.spotify.com/user/Rohit)
 <br />
 
 ---
