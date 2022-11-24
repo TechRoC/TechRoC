@@ -24,7 +24,7 @@ I am✨***Rohit Choudhary***✨, passionate in Machine Learning, my research int
 ## ***skills***
 
 <img align="left" width="30px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/python.svg"/>
-<img align="left" width="30px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/java.svg"/>
+
 <img align="left" width="30px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/django.svg"/>
 <img align="left" width="30px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/mongodb.svg"/>
 <img align="left" width="30px" alt="TechRoC | LinkedIn" src="https://simpleicons.org/icons/postgresql.svg"/>
@@ -40,7 +40,7 @@ I am✨***Rohit Choudhary***✨, passionate in Machine Learning, my research int
 
 ## ***Spotify playing***
 
-![Spotify](https://novatorem-rho-nine.vercel.app/api/spotify)](https://open.spotify.com/user/Rohit)
+[![Spotify](https://novatorem-rho-nine.vercel.app/api/spotify)](https://open.spotify.com/user/Rohit)
 <br />
 
 ---
